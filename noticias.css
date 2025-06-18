@@ -1,0 +1,50 @@
+body {
+      background-color: rgba(11, 11, 99, 0.753);
+      font-family: Arial, sans-serif;
+      color: #272424;
+      margin: 0;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px 0;
+    }
+
+    nav img {
+      width: 200px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2rem;
+      margin: 20px 0;
+    }
+
+    .cardimgs {
+      width: 100%;
+      max-width: 800px;
+      height: auto;
+      border-radius: 20px;
+      display: block;
+      margin: 20px auto;
+    }
+
+    p {
+      max-width: 800px;
+      margin: 20px auto;
+      font-size: 1.1rem;
+      line-height: 1.6;
+      white-space: pre-line;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      p {
+        font-size: 1rem;
+        padding: 0 10px;
+      }
+    }
