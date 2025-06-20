@@ -63,7 +63,7 @@ $noticia = $noticias[$cod];
 <header>
     <nav>
 
-        <a class="imgnavbar" href="atividadesite.php"><img src="imgs/ghiblilogo.png"></a>
+        <a class="imgnavbar" href="index.php"><img src="imgs/ghiblilogo.png"></a>
 
     </nav>
 </header>
