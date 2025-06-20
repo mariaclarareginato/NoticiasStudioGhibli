@@ -1,4 +1,4 @@
-# Notícias-Studio-Ghibli-
+# Notícias Studio Ghibli
 
 Site de notícias do studio de cinêma japonês feito com PHP, HTML e CSS.
 
