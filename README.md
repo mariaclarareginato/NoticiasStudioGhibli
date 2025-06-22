@@ -15,14 +15,15 @@ Site de notícias do studio de cinêma japonês feito com PHP, HTML e CSS.
 
 Criar um ambiente digital onde:
 
-- Se tenham notícias do studio de cinema japonêS "Ghibli".
+- Se tenham notícias do studio de cinema japonês "Ghibli".
 
 ---
 
 ## Tecnologias Utilizadas
 
 - **Frontend:** HTML5, CSS3
-- **Backend:**PHP
+- **Backend:** PHP
+- **Servidor Local:** XAMPP
 
 ---
 
@@ -44,7 +45,7 @@ Criar um ambiente digital onde:
 git clone https://github.com/mariaclarareginato/NoticiasStudioGhibli.git
 ```
 
-### 1. No seu navegador:
+### 2. No seu navegador:
 
 **Faça a instalação do XAMPP**
 
