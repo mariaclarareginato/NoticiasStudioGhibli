@@ -2,7 +2,7 @@
 $noticias = [
 
     [
-        "titulo" => "Documentário sobre Hayao Miyazaki chega ao Brasil pela <br> primeira vez",
+        "titulo" => "Documentário sobre Hayao Miyazaki chega ao Brasil pela primeira vez",
         "descricao" => "Documentário “Miyazaki, L’Esprit de la Nature” terá estreia na noite de abertura do festival ANIMAGE.",
         "imagem" => "miyazaki.webp",
         "lermais" => "A 14ª edição do ANIMAGE – Festival Internacional de Animação de Pernambuco, um dos mais relevantes festivais de cinema de animação da América Latina, realizará a estreia latino-americana do documentário “Miyazaki, L’Esprit de la Nature” (Miyazaki, O espírito da natureza, em tradução livre), de Léo Favier, sobre o mestre da animação e vencedor do Oscar, Hayao Miyazaki.
@@ -13,8 +13,8 @@ Sinopse: Por meio de personagens icônicos como Totoro e Princesa Mononoke, os f
     ],
 
     [
-        "titulo" => "<br>Studio Ghibli recebe Palma de Ouro honorária em Cannes na França",
-        "descricao" => "Palma de Ouro Honorária ao Studio Ghibli <br> é um feito inédito na premiação.",
+        "titulo" => "Studio Ghibli recebe Palma de Ouro honorária em Cannes na França",
+        "descricao" => "Palma de Ouro Honorária ao Studio Ghibli é um feito inédito na premiação.",
         "imagem" => "premio.webp",
         "lermais" => "O 77º Festival Internacional de Cinema de Cannes premiou o Studio Ghibli com a Palma de Ouro Honorária. O prêmio homenageia aqueles que realizaram trabalhos notáveis. Segundo a equipe do festival, esta é a primeira vez que Cannes concede a homenagem a um grupo e não a um indivíduo.
 

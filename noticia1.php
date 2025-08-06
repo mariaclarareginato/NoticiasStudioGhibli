@@ -71,6 +71,7 @@ $noticia = $noticias[$cod];
 
 <h1><?php echo $noticia['titulo']; ?></h1>
 <img src="<?php echo  'imgs/'. $noticia['imagem']; ?>" class="cardimgs">
+<br></br>
 <p><?php echo $noticia['lermais']; ?></p>
 
 </body>
